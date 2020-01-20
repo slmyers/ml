@@ -1,0 +1,1 @@
+Learning about ML. Using `Hands-On Machine Learning with Scikit-Learn and TensorFlow`. Currently trying to do chapter 2 on a similiar dataset from Kaggle. 
